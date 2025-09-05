@@ -1,0 +1,26 @@
+# 📦 Postal Route Expo App
+
+This is a prototype mobile app built with **React Native + Expo** to help postal workers scan parcels/letters, capture addresses, and build efficient delivery routes.
+
+---
+
+## ✨ Features
+- 📷 Capture address labels using the **camera** (OCR placeholder).
+- 📦 Scan barcodes with the **barcode scanner**.
+- 📝 Manage stops and mark parcels as **delivered**.
+- 📍 Location tracking & notifications (proximity alerts).
+- 💾 Data persistence (your stops are saved on the device).
+
+---
+
+## 🚀 Getting Started
+
+### 1. Install Prerequisites
+- [Node.js](https://nodejs.org/) (LTS version)
+- [Expo Go](https://expo.dev/client) on your Android or iOS device
+- Git (if you want to clone instead of downloading)
+
+### 2. Clone the Repo
+```bash
+git clone https://github.com/christophermbyrne38/C.Byrne-An-post.git
+cd C.Byrne-An-post
